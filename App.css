@@ -1,0 +1,18 @@
+.Hero{
+  color: black;
+ align-content: center;
+}
+.list{
+ padding-right:  50%;
+position: relative;
+list-style-position: initial;
+}
+
+ul li{
+align-content: space-between;
+}
+
+.names{
+  position: absolute;
+  align-content: center;
+}
